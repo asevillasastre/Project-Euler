@@ -1,7 +1,7 @@
 # Project Euler solving scripts
 
 ### Content
-Here is solving scripts for some problems from [Project Euler](https://projecteuler.net/)
+Here is solving scripts for some problems from [Project Euler](https://projecteuler.net/).
 
 ### Author
 Antonio Sevilla Sastre
